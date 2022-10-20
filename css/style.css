@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://st.depositphotos.com/2158511/4377/v/450/depositphotos_43771103-stock-illustration-raw-food-seamless-background.jpg');
+}
+
+.container {
+    background-color: #FAF7F0;
+    border-radius: 50px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 900px;
+}
+
+#heart {
+    color: black;
+    text-decoration: none;
+}
+
+#heart:hover {
+    color: tomato;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+#player {
+    display: block;
+    margin: 0 auto;
+}
+
+#shaurma {
+    margin: 0 70px 70px;
+    width: 80%;
+    max-width: 900px;
+}
